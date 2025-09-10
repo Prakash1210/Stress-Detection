@@ -38,7 +38,7 @@ Upload any clear frontal image containing a human face, and the app will highlig
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/stress-detection.git
+git clone https://github.com/Prakash1210/stress-detection.git
 cd stress-detection
 ````
 
