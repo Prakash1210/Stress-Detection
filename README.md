@@ -38,8 +38,8 @@ Upload any clear frontal image containing a human face, and the app will highlig
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/stress-detection-fer.git
-cd stress-detection-fer
+git clone https://github.com/yourusername/stress-detection.git
+cd stress-detection
 ````
 
  2. Install dependencies
@@ -62,7 +62,7 @@ tensorflow
  3. Run the Streamlit app
 
 ```bash
-streamlit run app.py
+streamlit run prakash.py
 ```
 
 4. Upload an image and view the results
@@ -94,7 +94,7 @@ stress-detection-fer/
 
 ## 👨‍💻 Author
 
-* **Prakash B** – Machine Learning Enthusiast | Web Developer
+* **Prakash B** – Web Developer | Software Developer 
 
 ## 📄 License
 
