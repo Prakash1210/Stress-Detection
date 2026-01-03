@@ -45,3 +45,4 @@ if uploaded_image is not None:
         predicted_emotion = labels[int(np.argmax(yhat))]
         cv2.putText(image, predicted_emotion, (x, y), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 255, 0), 1, cv2.LINE_AA)
         st.image(image, caption=f"Emotion: {predicted_emotion}", use_column_width=True)
+
